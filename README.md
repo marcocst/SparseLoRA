@@ -1,6 +1,6 @@
 # SparseLoRA: Improving the Rank-Efficiency of LoRA
 
-![Back Propagation](Back-Propagation.png)
+![Back Propagation](model.png)
 
 ## Quickstart
 
