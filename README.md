@@ -1,5 +1,7 @@
 # SparseLoRA: Improving the Rank-Efficiency of LoRA
 
+![Back Propagation](Back-Propagation.png)
+
 ## Quickstart
 
  1. Installing `SparseLoralib` is simply
