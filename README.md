@@ -1,4 +1,4 @@
-# SparseLoRA: Improving the Rank-Efficiency of LoRA
+# SparseLoRA: Budget-Constrained Rank Selection from Expanded Candidate Spaces
 
 ![Back Propagation](model.png)
 
